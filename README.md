@@ -14,7 +14,7 @@ The project demonstrates how to:
 
 ## Dataset
 
-**Source:** Spotify Charts (daily updates)  
+**Source:** [Spotify Charts](https://www.kaggle.com/datasets/dhruvildave/spotify-charts/data)   
 **Data Tracked:**
 
 | Column      | Description |
